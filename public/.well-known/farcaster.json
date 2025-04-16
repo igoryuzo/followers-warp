@@ -1,0 +1,12 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Followers Mini App",
+    "iconUrl": "/icon.png",
+    "homeUrl": "/",
+    "imageUrl": "/warp-celeb.gif",
+    "buttonTitle": "🚀 Start",
+    "splashImageUrl": "/splash.png",
+    "splashBackgroundColor": "#f5f0ec"
+  }
+} 
