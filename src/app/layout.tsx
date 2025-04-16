@@ -10,7 +10,7 @@ const frameEmbed = {
   version: "next",
   imageUrl: "https://followers-warp.vercel.app/warp-celeb.gif",
   button: {
-    title: "🚀 Start",
+    title: "200 Followers on Warpcast!",
     action: {
       type: "launch_frame",
       url: "https://followers-warp.vercel.app/",
