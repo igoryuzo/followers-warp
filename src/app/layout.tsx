@@ -8,14 +8,14 @@ const inter = Inter({ subsets: ["latin"] })
 // Farcaster Frame embed metadata
 const frameEmbed = {
   version: "next",
-  imageUrl: "https://your-domain.com/warp-celeb.gif",
+  imageUrl: "https://followers-warp.vercel.app/warp-celeb.gif",
   button: {
     title: "🚀 Start",
     action: {
       type: "launch_frame",
-      url: "https://your-domain.com",
+      url: "https://followers-warp.vercel.app/",
       name: "Followers Mini App",
-      splashImageUrl: "https://your-domain.com/splash.png",
+      splashImageUrl: "https://followers-warp.vercel.app/splash.png",
       splashBackgroundColor: "#f5f0ec"
     }
   }
