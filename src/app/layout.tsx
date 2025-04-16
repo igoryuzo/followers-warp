@@ -16,7 +16,7 @@ const frameEmbed = {
       url: "https://followers-warp.vercel.app/",
       name: "Followers Mini App",
       splashImageUrl: "https://followers-warp.vercel.app/splash.png",
-      splashBackgroundColor: "#f5f0ec"
+      splashBackgroundColor: "#472b91"
     }
   }
 };
